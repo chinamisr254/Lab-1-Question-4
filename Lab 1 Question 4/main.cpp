@@ -6,9 +6,12 @@
 //
 
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
+using namespace std;
+int main()
+{
     // insert code here...
-    std::cout << "Hello, World!\n";
+    cout << "Hawkins, Joseph"<<endl;
+    cout<<33<<endl;
+    cout<<"Freshman"<<endl;
     return 0;
 }
